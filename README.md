@@ -1,59 +1,54 @@
-✅ Todo List App
+# ✅ Todo List App
 
-A simple, clean, and responsive Todo List Application built using HTML, CSS, and JavaScript.
-This app helps users organize their daily tasks by adding, completing, and managing todos efficiently.
+A simple and interactive **Todo List Application** built using **HTML, CSS, and JavaScript**.  
+This app helps users manage daily tasks by adding, completing, and deleting todos in an easy and user-friendly interface.
 
-🚀 Live Demo
+---
 
-Live Website:
-(Add your live link here if deployed on Vercel / Netlify / GitHub Pages)
+## 🚀 Live Demo
 
-✨ Features
+(https://your-live-link-here.vercel.app)
 
-📝 Add new tasks easily
+---
 
-❌ Delete tasks when completed
+## ✨ Features
 
-✅ Mark tasks as completed
+- ➕ Add new tasks  
+- ✅ Mark tasks as completed  
+- ❌ Delete tasks from the list  
+- 💾 Tasks remain during the session  
+- 📱 Responsive design (works on desktop & mobile)  
+- 🎨 Clean and minimal UI  
 
-💾 Saves tasks in browser (Local Storage)
+---
 
-📱 Responsive design (mobile & desktop friendly)
+## 🛠️ Technologies Used
 
-🎯 Simple and user-friendly UI
+- **HTML5** – Structure of the application  
+- **CSS3** – Styling and layout  
+- **JavaScript (ES6)** – App logic and DOM manipulation
+- Local Storage – To store tasks persistently 
 
-🛠️ Technologies Used
+---
 
-HTML5 – Structure of the application
+## 📚 What I Learned
 
-CSS3 – Styling and responsive layout
+- DOM manipulation using JavaScript  
+- Handling user input and events  
+- Managing application state  
+- Creating interactive UI components  
+- Improving frontend logic with vanilla JavaScript  
+- Using Git & GitHub for version control  
 
-JavaScript (ES6) – Application logic & DOM manipulation
+---
 
-Local Storage – To store tasks persistently
+## 👨‍💻 Developed By
 
-📚 What I Learned
+- **Anees Ur Rehman**  
+- GitHub: https://github.com/Anees44  
 
-JavaScript DOM manipulation
+---
 
-Handling user events (click, input, submit)
+## ⭐ Acknowledgment
 
-Working with Local Storage in JavaScript
-
-Creating reusable and clean UI components
-
-Improving UI/UX using CSS
-
-Using Git & GitHub for version control
-
-👨‍💻 Developed By
-
-Anees Ur Rehman
-
-GitHub: https://github.com/Anees44
-
-⭐ Acknowledgment
-
-This project was created to strengthen my fundamentals in HTML, CSS, and JavaScript
-
-Inspired by real-world task management applications
+- This project was created to practice and strengthen my core frontend skills using HTML, CSS, and JavaScript.
