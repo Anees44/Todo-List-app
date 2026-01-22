@@ -1,29 +1,29 @@
-# ✅ Todo List App
+# Todo List App
 
 A simple and interactive **Todo List Application** built using **HTML, CSS, and JavaScript**.  
 This app helps users manage daily tasks by adding, completing, and deleting todos in an easy and user-friendly interface.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
  **Live Website:** 
 https://todo-list-app-silk-sigma.vercel.app/
 
 ---
 
-## ✨ Features
+## Features
 
-- ➕ Add new tasks  
-- ✅ Mark tasks as completed  
-- ❌ Delete tasks from the list  
-- 💾 Tasks remain during the session  
-- 📱 Responsive design (works on desktop & mobile)  
-- 🎨 Clean and minimal UI  
+-  Add new tasks  
+-  Mark tasks as completed  
+-  Delete tasks from the list  
+-  Tasks remain during the session  
+-  Responsive design (works on desktop & mobile)  
+-  Clean and minimal UI  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure of the application  
 - **CSS3** – Styling and layout  
@@ -32,7 +32,7 @@ https://todo-list-app-silk-sigma.vercel.app/
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - DOM manipulation using JavaScript  
 - Handling user input and events  
@@ -43,13 +43,13 @@ https://todo-list-app-silk-sigma.vercel.app/
 
 ---
 
-## 👨‍💻 Developed By
+## Developed By
 
 - **Anees Ur Rehman**  
 - GitHub: https://github.com/Anees44  
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
 - This project was created to practice and strengthen my core frontend skills using HTML, CSS, and JavaScript.
